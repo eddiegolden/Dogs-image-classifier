@@ -2,7 +2,7 @@
 A convolutional neural network model to identify dog breeds. (Udacity nanodegree "Deep Learning")
 
 ## Project Description
-The CNN model is built in a [Jupyter notebook](dog_app - Eddie Goldenberg.ipynb) using Pytorch.
+The CNN model is built in a [Jupyter notebook](dog_app_by_eddie_goldenberg.ipynb) using Pytorch.
 It is made of a few different functions and two models: CNN from scratch and CNN based on transfer learning.
 The training and test data is not icluded in this Github.
 The project was created for Udacity Nanodegree "Deep Learning" and is partialy their code
